@@ -3,6 +3,12 @@ NoSQL_ORM_Framework
 
 ORM framework for NoSQL Database, like OGM(Object Grid Mapper), to manage sessions and object to java entity mapping
 
+
+-Dear all,
+-
+-Here is small contribution from my side to implement ORM framework, 
+-like hibernate for NoSQL databases for example OGM for MongoDB.
+
 Here are some configuration need to done before implmentation, create a .bat file under project repo and
 
 ECHO OFF
@@ -32,5 +38,14 @@ mvn clean install
 
 to build the project.
 
-Thanks,
-Amol
+-
+-Do let me know about any bug or mis-implemenation, I'll try to update it as soon as possible.  
+-
+-If you are interested to contribute please drop me a mail amolfasale@gmail.com
+-
+-Thanks for your support and kind attention.  
+-
+-All rights reserved @amolfasale
+-  
+-Thanks,
+-Amol Fasale

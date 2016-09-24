@@ -41,8 +41,6 @@ to build the project.
 
 Do let me know about any bug or mis-implemenation, I'll try to update it as soon as possible.  
 
-If you are interested to contribute please drop me a mail amolfasale@gmail.com
-
 Thanks for your support and kind attention.  
 
 All rights reserved @amolfasale
